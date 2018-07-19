@@ -1,9 +1,7 @@
-#header{
-    background-color:purple;
+body{
+    background-color:lightyellow;
 }
-#first {
-    text-align: center;
+#adorable{
+    background:yellow;
+    color: blue;
 }
-#paral{
-    font-family: arial;
-} 
